@@ -1,5 +1,5 @@
 # TravelTime
-A machine learning model to predict the time needed to travel from one location to another.
+A machine learning model to predict the estimated time of arrival (ETA) for any agency trips.
 
 ## Steps
 Here are the steps I passed through when I was implementing the model.
@@ -13,5 +13,4 @@ Here are the steps I passed through when I was implementing the model.
 
 
 ## Dataset
-The dataset used to train the model is taken from a public competition on [Zindi](https://zindi.africa/hackathons/umojahack-algeria-yassir-eta-prediction-challenge/data).
-If you're a dataset owner and do not want your dataset to be included here, please get in touch through a GitHub issue. Thanks for your contribution to the ML community!
+I used a private dataset, but you can use the model to predict the estimated time of arrival (ETA) for any agency trips dataset.
