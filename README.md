@@ -4,8 +4,8 @@ A machine learning model to predict the time needed to travel from one location 
 ## Steps
 Here are the steps I passed through when I was implementing the model.
 1.  Read the data then get general informations about the data.
-2.  Handle missing values.
-3.  Extract features from the date feature.
+2.  handled missing values.
+3.  Extracted features from the date feature.
 4.  Encoded data using one hot Encoding
 5.  Visualised data using Matplotlib
 6.  Used kmeans algorithm to gather near locations together (using latitude and longitude features) and then add a new features "pickup" and "dropoff".
