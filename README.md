@@ -2,13 +2,14 @@
 A machine learning model to predict the time needed to travel from one location to another.
 
 ## Steps
-1.  Read the data and get some primary iformations.
+Here are the steps I passed through when I was implementing the model.
+1.  Read the data then get general informations about the data.
 2.  Handle missing values.
 3.  Extract features from the date feature.
-4.  Encode data using one hot Encoding
-5.  Visualise data using Matplotlib
-6.  Use kmeans algorithms to gather near locations together and then add a new features "pickup" and "dropoff".
-7.  Use a machine learning (XGBRegressor in my case) to train and make predictions.
+4.  Encoded data using one hot Encoding
+5.  Visualised data using Matplotlib
+6.  Used kmeans algorithm to gather near locations together (using latitude and longitude features) and then add a new features "pickup" and "dropoff".
+7.  Used a machine learning algorithm (XGBRegressor in my case) to train the model and make predictions.
 
 
 ## Dataset
