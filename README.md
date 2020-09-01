@@ -13,5 +13,5 @@ Here are the steps I passed through when I was implementing the model.
 
 
 ## Dataset
-The dataset used to train the model is taken from a public competition on [Zindi](https://zindi.africa/).
+The dataset used to train the model is taken from a public competition on [Zindi](https://zindi.africa/hackathons/umojahack-algeria-yassir-eta-prediction-challenge/data).
 If you're a dataset owner and do not want your dataset to be included here, please get in touch through a GitHub issue. Thanks for your contribution to the ML community!
