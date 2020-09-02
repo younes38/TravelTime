@@ -12,4 +12,7 @@ Here are the steps I passed through when I was implementing the model.
 7.  Used a machine learning algorithm (XGBRegressor in my case) to train the model and make predictions.
 
 ## Dataset
-I used a private dataset, but you can use the model to predict the estimated time of arrival (ETA) for any agency trips dataset.
+I used a private dataset, but you can use the model to predict the estimated time of arrival (ETA) for any agency trips dataset (you need to make a small changes depending on your dataset).
+
+## Why this project
+After participating in the UmojaHack Algeria, I saw that the problem is interesting so I decided to organise my solution and post it here in a clear manner to contribute to the open-source community.
